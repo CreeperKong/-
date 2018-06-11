@@ -1,0 +1,19 @@
+小雯：太好了
+--- RECORDSEPARATOR ---
+~!
+--- RECORDSEPARATOR ---
+谢谢先生
+--- RECORDSEPARATOR ---
+!
+--- RECORDSEPARATOR ---
+智力
+--- RECORDSEPARATOR ---
++30,
+--- RECORDSEPARATOR ---
+魅力
+--- RECORDSEPARATOR ---
++10,
+--- RECORDSEPARATOR ---
+好感度
+--- RECORDSEPARATOR ---
++100

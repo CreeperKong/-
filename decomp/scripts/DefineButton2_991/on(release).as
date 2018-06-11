@@ -1,0 +1,4 @@
+on(release){
+   nextFrame();
+   play();
+}

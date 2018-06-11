@@ -1,0 +1,11 @@
+stop();
+_global.flower_01 = 0;
+_global.flower_02 = 0;
+_global.flower_03 = 0;
+_global.flower_04 = 0;
+_global.flower_05 = 0;
+_global.flower_06 = 0;
+_global.flower_07 = 0;
+_global.flower_08 = 0;
+_global.flower_09 = 0;
+_global.flower_10 = 0;

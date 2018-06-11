@@ -1,0 +1,19 @@
+阿宝：辛苦了
+--- RECORDSEPARATOR ---
+~
+--- RECORDSEPARATOR ---
+！今天多亏了你帮忙，这是你的酬
+--- RECORDSEPARATOR ---
+金，请收下。
+--- RECORDSEPARATOR ---
+银子
+--- RECORDSEPARATOR ---
++     
+--- RECORDSEPARATOR ---
+，智力
+--- RECORDSEPARATOR ---
++10
+--- RECORDSEPARATOR ---
+，阿宝好感度
+--- RECORDSEPARATOR ---
++100

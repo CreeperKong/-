@@ -1,0 +1,13 @@
+购买檀香二十个赠予小倩。
+--- RECORDSEPARATOR ---
+银子
+--- RECORDSEPARATOR ---
++400
+--- RECORDSEPARATOR ---
+，魅力
+--- RECORDSEPARATOR ---
++20
+--- RECORDSEPARATOR ---
+，小倩好感度
+--- RECORDSEPARATOR ---
++100

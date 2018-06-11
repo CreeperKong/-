@@ -1,0 +1,23 @@
+科举考试
+--- RECORDSEPARATOR ---
+说明：
+--- RECORDSEPARATOR ---
+   
+--- RECORDSEPARATOR ---
+本次考试共
+--- RECORDSEPARATOR ---
+10
+--- RECORDSEPARATOR ---
+道题，满分
+--- RECORDSEPARATOR ---
+100
+--- RECORDSEPARATOR ---
+。
+--- RECORDSEPARATOR ---
+   
+--- RECORDSEPARATOR ---
+根据考试成绩可获得相应功名和奖
+--- RECORDSEPARATOR ---
+金，加油
+--- RECORDSEPARATOR ---
+~

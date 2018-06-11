@@ -1,0 +1,25 @@
+       
+--- RECORDSEPARATOR ---
+：
+--- RECORDSEPARATOR ---
+[
+--- RECORDSEPARATOR ---
+请选择
+--- RECORDSEPARATOR ---
+]
+--- RECORDSEPARATOR ---
+(1)
+--- RECORDSEPARATOR ---
+那翠鸟一定是被婉儿的歌声吸引过来的，并为婉儿和声
+--- RECORDSEPARATOR ---
+的吧。
+--- RECORDSEPARATOR ---
+(2)
+--- RECORDSEPARATOR ---
+那翠鸟大概是被婉儿的歌声吸引过来，想和婉儿一比高
+--- RECORDSEPARATOR ---
+下吧。
+--- RECORDSEPARATOR ---
+(3)
+--- RECORDSEPARATOR ---
+婉儿的歌声定比那翠鸟的声音更好听。
